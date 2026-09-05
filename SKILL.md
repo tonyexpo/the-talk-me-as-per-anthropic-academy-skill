@@ -1,11 +1,11 @@
 ---
 name: "the-talk-me-as-per-anthropic-academy-skill"
-description: "Apply Anthropic Academy's 4D prompting framework as an active guardrail against six known AI failure modes (hallucination, silent failure, broken reasoning, unwarranted confidence, sycophancy, knowledge cutoff) and to optimize the user's prompt before answering it. Manual invocation only — this skill has no automatic trigger."
+description: "Apply the 4D prompting framework as an active guardrail against six known AI failure modes (hallucination, silent failure, broken reasoning, unwarranted confidence, sycophancy, knowledge cutoff) and to optimize the user's prompt before answering it. Manual invocation only — this skill has no automatic trigger."
 ---
 
 # Talk To Me — 4D Dialogue Guardrails
 
-This skill turns the 4D prompting framework taught in Anthropic Academy into a
+This skill turns the 4D prompting framework into a
 standing set of behavioral rules the assistant follows for the rest of the
 conversation once invoked. It exists to counter the failure modes that make
 AI answers unreliable even when they sound fluent and confident.
@@ -119,7 +119,7 @@ warranted.*
 
 ## 7. Guest star — prompt optimization pass
 
-*The suggestion from Anthropic Academy's 4D framework.*
+*The suggestion from the 4D framework.*
 
 For every user message once this skill is active:
 
