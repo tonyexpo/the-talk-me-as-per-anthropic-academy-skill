@@ -1,5 +1,5 @@
 ---
-name: "the-talk-me-as-per-anthropic-academy-skill"
+name: "the-talk-to-me-as-per-4d-framework-skill"
 description: "Apply the 4D prompting framework as an active guardrail against six known AI failure modes (hallucination, silent failure, broken reasoning, unwarranted confidence, sycophancy, knowledge cutoff) and to optimize the user's prompt before answering it. Manual invocation only — this skill has no automatic trigger."
 ---
 
