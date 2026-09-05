@@ -4,12 +4,12 @@ A portable, platform-agnostic AI skill that operationalizes Anthropic
 Academy's **4D prompting framework** as a standing set of guardrails against
 the most common AI failure modes:
 
-- **Hallucination** — stating guesses as verified fact
-- **Silent failure** — quietly skipping part of a task/instruction instead of flagging it
-- **Broken reasoning** — multi-step answers with a weak or unsupported link nobody checked
-- **Unwarranted confidence** — sounding equally sure about solid facts and shaky guesses
-- **Sycophancy** — agreeing with the user instead of checking them
-- **Knowledge cutoff blind spots** — answering time-sensitive questions as if training data were current
+- **Hallucination** — a content error: a false statement of fact in the output
+- **Silent failure** — content that is entirely missing, partially missing, or unfit for purpose
+- **Broken reasoning** — the process is flawed, even when the final output happens to look right
+- **Unwarranted confidence** — a confident tone with no caution where caution is warranted
+- **Sycophancy** — going along with the user instead of challenging them
+- **Knowledge cutoff blind spots** — answering recent/current-event questions as if training data were current
 
 ...plus one "guest star" behavior straight out of the 4D framework: asking
 the AI to **optimize your prompt before answering it** (while preserving
