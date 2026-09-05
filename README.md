@@ -43,7 +43,7 @@ intentionally does not assume that for you. See the platform notes below.
 - **Claude Code (project or user skill):** drop this folder into
   `.claude/skills/<name>/` (project-level) or
   `~/.claude/skills/<name>/` (user-level), keeping the `SKILL.md` filename.
-  Invoke it manually as a skill in your session (e.g. `/the-talk-me-as-per-anthropic-academy-skill`).
+  Invoke it manually as a skill in your session (e.g. `/the-talk-to-me-as-per-4d-framework-skill`).
 - **Always-on for yourself:** if you want these rules applied automatically
   in every session without invoking the skill each time, add the contents
   of `SKILL.md` to your Claude custom instructions / project instructions
@@ -70,6 +70,30 @@ This is a public, cleaned-up evolution of a personal preview skill the
 author uses day to day, extended to also flag knowledge-cutoff risk and to
 formalize the prompt-optimization step, then generalized into
 platform-neutral English so it can be reused anywhere.
+
+## Disclaimer
+
+This skill is an independent, personal elaboration by its author, built
+from studying the 4D prompting framework through Anthropic Academy
+material. **It is not original Anthropic material and is not affiliated
+with, endorsed by, or officially provided by Anthropic.**
+
+Using this skill does **not**, in any way:
+
+- Relieve you of the responsibility to critically review the AI's output —
+  its quality and whether it actually and correctly accomplishes the task
+  you asked for. The guardrails in this skill reduce certain failure
+  modes; they do not guarantee a correct or fit-for-purpose result.
+- Relieve you of any transparency obligations you have around your use of
+  AI (e.g. disclosing AI assistance where required by policy, contract, or
+  law).
+- Relieve you of the responsibility you continue to bear when you bring or
+  use an AI model's output into a production/professional context —
+  whether that output is source code, a business report, a poem, or
+  anything else.
+
+You remain fully responsible for how you use, verify, and act on anything
+an AI produces, with or without this skill active.
 
 ## License
 
