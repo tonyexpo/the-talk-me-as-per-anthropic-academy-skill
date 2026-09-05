@@ -1,9 +1,9 @@
 # Talk To Me — 4D Dialogue Guardrails
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Framework: Anthropic 4D](https://img.shields.io/badge/Framework-Anthropic%204D-6b46c1)](https://github.com/tonyexpo/the-talk-me-as-per-anthropic-academy-skill/blob/claude/repo-initialization-tyxcpg/SKILL.md)
+[![Framework: Anthropic 4D](https://img.shields.io/badge/Framework-Anthropic%204D-6b46c1)](https://github.com/tonyexpo/the-talk-me-as-per-anthropic-academy-skill/blob/main/SKILL.md)
 [![Trigger: Manual only](https://img.shields.io/badge/Trigger-Manual%20only-orange)](#manual-invocation-only--by-design)
-[![Download SKILL.md](https://img.shields.io/badge/Download-SKILL.md-2ea44f?logo=markdown&logoColor=white)](https://raw.githubusercontent.com/tonyexpo/the-talk-me-as-per-anthropic-academy-skill/claude/repo-initialization-tyxcpg/SKILL.md)
+[![Download SKILL.md](https://img.shields.io/badge/Download-SKILL.md-2ea44f?logo=markdown&logoColor=white)](https://raw.githubusercontent.com/tonyexpo/the-talk-me-as-per-anthropic-academy-skill/main/SKILL.md)
 
 A portable, platform-agnostic AI skill that operationalizes Anthropic
 Academy's **4D prompting framework** as a standing set of guardrails against
